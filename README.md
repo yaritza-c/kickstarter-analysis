@@ -33,9 +33,8 @@ I found the one that worked and made sense.
 ## Results
 
 - Two conclusions I can draw about the Theater Outcomes by Launch Date are:
--- The month of May has the highest successful outcomes with it also being the highest fails
-
--- The month of December is the lowest successful outcomes with November being the lowest fails
+  * The month of May has the highest successful outcomes with it also being the highest fails
+  * The month of December is the lowest successful outcomes with November being the lowest fails
 
 - What I have concluded on the Outcome based goals is that the lowest goal has the highest percentage of success, and the highest goal has the least successful.
 
